@@ -4,12 +4,12 @@ This project demonstrates a basic Hardhat use case. It comes with a contract gen
 
 ## Setting items
 
-Name :Ares3 Network
-Symbol: ARES
-Premint: 300,000,000
-On: Burnable,Pausable,Permit,Votes,Flash Minting,Snapshots
-Off: Mintable
-Access control: Ownable
+Name :Ares3 Network  
+Symbol: ARES  
+Premint: 300,000,000  
+On: Burnable,Pausable,Permit,Votes,Flash Minting,Snapshots  
+Off: Mintable  
+Access control: Ownable  
 License: MIT
 
 ## Installing dependencies
